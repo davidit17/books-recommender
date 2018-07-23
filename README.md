@@ -21,4 +21,10 @@ and loads the data into csv file ( only for books with more than 1 review)
 
 ## second file : recommender 
 
+simple recommender (without users data)
+
+based on weighted rating and optional variables like under 200 pages book , specific author and more . 
+
+returns the top rated (weighted rating) N books.
+
 
