@@ -1,5 +1,7 @@
 # books-recommender
-scrape books data from simania and simple books recommender 
+scrape books data from simania and simple books recommender and user based recommender
+
+
 
 ## first file : simania 
 
@@ -28,3 +30,6 @@ based on weighted rating and optional variables like under 200 pages book , spec
 returns the top rated (weighted rating) N books.
 
 
+## 3rd file : user data scraper 
+
+## 4rd file : user data recommender
