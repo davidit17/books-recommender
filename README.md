@@ -32,4 +32,16 @@ returns the top rated (weighted rating) N books.
 
 ## 3rd file : user data scraper 
 
-## 4rd file : user data recommender
+we can find how users rated books
+
+<p align="center">
+  <img src="img/user.JPG">
+</p>
+
+scraped and inserted into dataframe 
+
+<p align="center">
+  <img src="img/user2.JPG">
+</p>
+
+## 4rd file : user data based recommender
