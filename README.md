@@ -44,4 +44,8 @@ scraped and inserted into dataframe
   <img src="img/user2.JPG">
 </p>
 
-## 4rd file : user data based recommender
+## 4rd file : user data based recommender - Collaborative filtering
+
+using ML  Nearest Neighbor Model 
+
+ref : https://beckernick.github.io/music_recommender/
