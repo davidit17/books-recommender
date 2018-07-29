@@ -1,5 +1,5 @@
 # books-recommender
-scrape books data from simania and simple books recommender and user based recommender
+scrape books data from simania and simple books recommender and user based recommender using knn
 
 
 
